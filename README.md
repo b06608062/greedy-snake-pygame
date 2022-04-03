@@ -4,3 +4,6 @@
 
 ## Demo
 [Demo Link](https://www.youtube.com/watch?v=LyfYJhflgc4)
+
+## Anaconda install pygame
+[Link](https://gist.github.com/BrambleXu/fc7793a5c477c7d6f243ba72df023303)
